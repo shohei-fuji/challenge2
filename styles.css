@@ -1,0 +1,62 @@
+body {
+    font-family: "M PLUS Rounded 1c"; 
+    background-color:lightskyblue;
+    margin:10px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color:yellowgreen;
+}
+
+h1 {
+    font-weight: bold;
+    margin:50px 300px;
+    padding: 0px 300px;
+}
+
+h3 {
+    font-family: "Noto Sans JP"; 
+    font-weight: 400;
+    margin:50px 290px;
+    padding: 0px 290px;
+
+}
+
+h4 {
+    margin:50px 100px;
+    padding: 10px 300px;
+}
+
+nav {
+    margin:0px 300px;
+    padding: 0px 300px;
+}
+
+
+.social_link {
+    margin:50px 300px;
+    padding: 0px 300px;
+}
+
+table {
+    margin:0px 450px;
+    padding: 0px 30px;
+}
+
+.my_picture {
+    margin: 10px 85px;
+    padding:0px;
+    border: 20px solid yellow;
+
+
+
+
+
